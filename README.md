@@ -1,7 +1,20 @@
-<h1>Hi 👋, I'm Albin</h1>
-<p>Applied mathematician</p>
+<h1>Hi 👋, I'm Albin!</h1>
+<p>I am currently studying Applied Mathematics at Royal Institute of Technology in Stockholm, with a specialization in Optimization and Systems Theory! </p>
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="python" width="42" height="42" /></a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="python" width="42" height="42" /></a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="python" width="42" height="42" /></a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="python" width="42" height="42" /></a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="python" width="42" height="42" /></a>
+  
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
