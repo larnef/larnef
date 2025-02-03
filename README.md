@@ -37,7 +37,9 @@ Finally, using an approximation derived with the finite difference method, the B
 </p>
 
 <h3>Prediction of party affiliation using Machine Learning</h3>
-<p>This project was the final assignment for the course <b>DD1418 - Language Engineering with Introduction to Machine Learning</b>.
+<p>This project was the final assignment for the course <b>DD1418 - Language Engineering with Introduction to Machine Learning</b>. 
+
+The program used data from a database belonging to the Swedish Riksdag to train a model to predict the party affiliation of some political statement or speech. The model used different classification methods, including Naive Bayes, Support Vector Classification and Random Forest. The model was trained on both block (two swedish blocks: red and blue) and party affiliation (9 parties).
 
  
 </p>
