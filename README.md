@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Albin!</h1>
-<p>I am currently studying Applied Mathematics at Royal Institute of Technology in Stockholm, with a specialization in Optimization and Systems Theory, graduating in 2026! </p>
+<h1>Greetings 👋, I'm Albin!</h1>
+<p>I am currently studying Applied Mathematics at Royal Institute of Technology in Stockholm, with a specialization in Optimization and Systems Theory, graduating in 2026! My academcic interests include Data Science and Analytics, Optimization, Machine Learning and Operations Research.</p>
 <h2>Software and Languages</h2>
 <p>Here are some tools and languages that I have used in various courses, projects and such:</p>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img 
@@ -39,9 +39,31 @@ Finally, using an approximation derived with the finite difference method, the B
 <h3>Prediction of party affiliation using Machine Learning</h3>
 <p>This project was the final assignment for the course <b>DD1418 - Language Engineering with Introduction to Machine Learning</b>. 
 
-The program used data from a database belonging to the Swedish Riksdag to train a model to predict the party affiliation of some political statement or speech. The model used different classification methods, including Naive Bayes, Support Vector Classification and Random Forest. The model was trained on both block (two swedish blocks: red and blue) and party affiliation (9 parties).
+The model used data from a database belonging to the Swedish Riksdag to train a model to predict the party affiliation of some political statement or speech, based on e.g word usage and sentence structure. The model used different classification methods, including Naive Bayes, Support Vector Classification and Random Forest. The model was trained for binary- (two swedish blocks: red and blue) and multiclass classification (9 parties).
 
+<b>Programming language/tools used:</b> Python, Excel. 
  
+</p>
+
+<h3>Travel Insurance Pricing using GLM</h3>
+
+<p>This project was the second assignment of the course <b>SF2930 - Regression Analysis</b> at KTH, that focused on insurance pricing, applied to commercial customers, covering a wider range of situations than typical home insurances. This task was done by producing a generalized linear model (GLM) with risk-homogeneous groups, consisting of enough data to yield a stable result. Different groupings and variables were tested to achieve the highest gini-coefficient. The pricing was calculated using the target company's risk ratio target and the sum of the collected risk premiums.
+
+<b>Programming language/tools used:</b> Python.  
+</p>
+
+<h3>Classification of Song Preference using Machine Learning</h3>
+
+<p>This project was a part of the course <b>SF2935 - Modern Methods of Statistical Learning</b> at KTH. The task was to train a model on a dataset consisting of features of different sorts (categorical, binary etc.) that rank different songs, such as <c>danceability</c> and <c>energy</c>, and classify them as <c>good</c> or <c>bad</c>. The data was analyzed and processed, handling outliers and multicollinearity. Three different classification methods were described mathematically and used to train the model: Logistic regression, Support vector classifier and Random forest. Considering the small dataset that was provided (approx. 500 rows), all three methods were evaluated using Leave-One-Out Cross-Validation (LOOCV).
+
+<b>Programming language/tools used:</b> Python, Pandas, NumPy, SciKit-learn, SciPy, Seaborn. 
+</p>
+
+<h3>Inventory Optimization and Demand Estimation for a Retail Company</h3>
+
+<p>This project concluded my Bachelor studies in Industrial Engineering and Management at KTH. It was done for a small retail company in Sweden, focusing on home appliances. Estimation of future demand was done using time series analysis, and by considering current stock of different product categories, an inventory optimization model was created, suggesting that certain products may be redundant in terms of holding costs and predicted demand. The full report can be accessed <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1894675&dswid=7347" target="_blank">here</a> (in swedish).
+
+<b>Programming language/tools used:</b> Matlab, Python, Pandas, NumPy, SciPy, Seaborn, Excel. 
 </p>
 
  
